@@ -5,7 +5,7 @@
 ## BRANCH-*IT*
 ## SECTION-*IT(B2)*
 ![LOGO](https://blog.coachingkaro.org/wp-content/uploads/2019/07/logo.jpg)
-## **DEPARTMENT OF CIVIL ENGENEERING**
+## **DEPARTMENT OF I.T. ENGENEERING**
 # **GURU NANAK DEV ENGENEERING COLLEGE,LUDHIANA**
 # 1. Program to print Hello World
 
